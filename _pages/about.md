@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. PhD @ Queen Mary University of London
+subtitle: PhD Candidate at the UKRI Centre for Doctoral Training in Artificial Intelligence and Music, Queen Mary University of London.
 
 profile:
   align: right
