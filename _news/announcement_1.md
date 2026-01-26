@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-11-20 15:59
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Invited lecture on “Gender‑Coded Sound: Computational Insights into Toy Advertising Music” at the Hochschule
+für Musik, Theater und Medien Hannover, Germany.
