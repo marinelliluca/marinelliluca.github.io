@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I submitted the thesis! Discussion sometime in March.
+I submitted the thesis! The discussion will be sometime in March.
