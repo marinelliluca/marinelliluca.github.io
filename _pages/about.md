@@ -24,4 +24,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD candidate at the UKRI CDT in Artificial Intelligence and Music. My PhD project sits at the intersection of music data science, gender and media studies, with the aim of implementing multimodal deep learning models for a critical analysis of gendered markers in large corpora of television adverts. Theorising music as a multimodal discourse enables us to account for the influence of gender-based market segmentation strategies on the selection of sound and music for advertising.
+My PhD project sits at the intersection of music data science, gender and media studies, with the aim of implementing multimodal deep learning models for a critical analysis of gendered markers in large corpora of television adverts. Theorising music as a multimodal discourse enables us to account for the influence of gender-based market segmentation strategies on the selection of sound and music for advertising.
