@@ -25,3 +25,7 @@ latest_posts:
 ---
 
 My PhD project sits at the intersection of music data science, gender and media studies, with the aim of implementing multimodal deep learning models for a critical analysis of gendered markers in large corpora of television adverts. Theorising music as a multimodal discourse enables us to account for the influence of gender-based market segmentation strategies on the selection of sound and music for advertising.
+
+My research combines technical and critical approaches. I developed deep learning models and statistical methods in Python (PyTorch, TensorFlow, scikit-learn) for analyzing multimodal data, including recent work with large language models and retrieval-augmented generation systems. I worked with explainable AI techniques to make model decisions interpretable, and I have strong foundations in audio signal processing, NLP, and time series analysis.
+
+I welcome conversations with researchers, industry professionals, and anyone interested in the intersection of music, gender, and media. Get in touch at `marinelli.luca [at] proton.me` .
