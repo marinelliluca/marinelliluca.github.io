@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD in Artificial Intelligence and Music, Queen Mary University of London.
+subtitle: Postdoctoral Researcher in Computational Social Science @ Weizenbaum Institute.
 
 profile:
   align: right
@@ -24,8 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My work sits at the intersection of music data science, gender and media studies, with the aim of implementing semi-automated systems for a critical analysis of gendered markers in large corpora of television adverts. Theorising music as a multimodal discourse enables us to account for the influence of gender-based market segmentation strategies on the selection and composition of sound and music for advertising.
+Luca is a Postdoctoral Researcher in the GENDIS project at the Weizenbaum Institute, studying gender-based disinformation on online platforms with a focus on visual and multimodal data analysis. The project aims to develop computational methods and an open-source detection tool with academic and practice partners in Berlin and Munich.
 
-In my research I combined technical and critical approaches. I developed machine learning models, pipelines, and statistical methods for analyzing multimodal data, including recent work with large language models and retrieval-augmented generation systems. I worked with explainable AI techniques to make model decisions interpretable, and I have strong foundations in audio signal processing, NLP, and time series analysis.
-
-I welcome conversations with researchers, industry professionals, and anyone interested in the intersection of music, gender, and media. Get in touch at `marinelli.luca [at] proton.me`.
+Luca holds a PhD in Artificial Intelligence and Music from Queen Mary University of London. Grounded in human-validated content and discourse analysis, his doctoral work combined computational and critical approaches to study how gender stereotypes are encoded across multiple modalities in media (with a focus on music), using various machine learning techniques, LLMs (retrieval-augmented generation), and explainable AI.
